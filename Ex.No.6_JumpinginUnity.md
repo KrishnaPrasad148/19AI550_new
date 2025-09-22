@@ -1,6 +1,6 @@
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:   10/9/25                                                                         
+### REGISTER NUMBER :   212223230108 
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
 ### Algorithm:
@@ -22,7 +22,7 @@ Your cube should only jump when touching the ground
 ```
 ###
 **Program **
-```
+```c
 using UnityEngine;
 
 public class PlayerJump : MonoBehaviour
@@ -56,8 +56,10 @@ public class PlayerJump : MonoBehaviour
 ```
 ### Output:
 
+<img width="1919" height="1021" alt="idle" src="https://github.com/user-attachments/assets/8df812b6-080e-4dc1-a684-9340ee4784a9" />
 
 
+<img width="1919" height="1019" alt="jump" src="https://github.com/user-attachments/assets/143d9156-7b3c-47b3-824b-f8d437fbd14c" />
 
 
 
