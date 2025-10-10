@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:     10/10/25                                                                    
+### REGISTER NUMBER :    212223230108
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
@@ -107,12 +107,24 @@ behaviors:
 ```
 ### Output:
 
+#### Unity Render:
+
+<img width="1919" height="1019" alt="Screenshot 2025-10-10 101413" src="https://github.com/user-attachments/assets/b66fe7be-cc57-43f6-af56-042647777ba1" />
 
 
+<img width="1919" height="1021" alt="Screenshot 2025-10-10 101437" src="https://github.com/user-attachments/assets/c21b142e-b9fb-4313-b64a-b25e8d5ed28f" />
 
 
+<img width="1919" height="1023" alt="Screenshot 2025-10-10 101451" src="https://github.com/user-attachments/assets/cf4ca15b-288b-43d0-98cd-44378b5b44bf" />
 
 
+#### TensorBoard grapghs:
+
+<img width="1920" height="1020" alt="498732829-69116d6e-73ae-4f76-9168-6db814cdbfc9" src="https://github.com/user-attachments/assets/4e18a316-cd67-4953-a907-4cc845ae3fc5" />
+
+<img width="1920" height="1020" alt="498732963-dfb7e7bb-422a-455e-bc3c-a4a50971c78f" src="https://github.com/user-attachments/assets/d1205e1a-25dd-49ae-9743-4e82ceea223f" />
+
+<img width="1920" height="1020" alt="498733192-9748399b-b62c-47b6-a97b-959c20802101" src="https://github.com/user-attachments/assets/12bb6679-fe74-458d-8dcd-a03dae48edf8" />
 
 
 ### Result:
