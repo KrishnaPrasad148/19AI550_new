@@ -1,4 +1,4 @@
-# Ex.No: 10  Implementation of 2D/3D game Catch the Falling Apple
+# Ex.No: 10  Implementation of 2D game Catch the Falling Apple
 ### DATE:     22/10/25                                                                 
 ### REGISTER NUMBER :   212223230108
 ### AIM: 
