@@ -1,5 +1,5 @@
 # Ex.No: 10  Implementation of 2D game Catch the Falling Apple
-### DATE:     22/10/25                                                                 
+### DATE:     24/10/25                                                                 
 ### REGISTER NUMBER :   212223230108
 ### AIM: 
 To develop a game Catch the Falling Apple in Unity 
